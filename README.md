@@ -240,13 +240,14 @@ mingw32-make
 
 Built by:
 
-- **Ataifa Faisal       @AtaifaFaisal87** 
-- **Yazdaan Ali Mirza   @Yazdaan-Ali2006** 
+- **Ataifa Faisal       https://github.com/AtaifaFaisal87** 
+- **Yazdaan Ali Mirza   https://github.com/Yazdaan-Ali2006** 
 
 ### 🧪 Tested By
 
-- **Summaiya Abubakker  @summaiyaabubakker**
-- **Aoun Ali            @AounAli2k06**
+- **Summaiya Abubakker
+  https://github.com/sumaiyaabubakker**
+- **Aoun Ali           https://github.com/AounAli2k06**
 
 ---
 🙏 Acknowledgment
