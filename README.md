@@ -247,8 +247,7 @@ Built by:
 
 - **Summaiya Abubakker
   https://github.com/sumaiyaabubakker**
-- **Aoun Ali
-  https://github.com/AounAli2k06**
+- **Aoun Ali                  https://github.com/AounAli2k06**
 
 ---
 🙏 Acknowledgment
