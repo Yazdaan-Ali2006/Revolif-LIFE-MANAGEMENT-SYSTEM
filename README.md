@@ -245,7 +245,7 @@ Built by:
 
 ### 🧪 Tested By
 
-- **Sumaiya Abubakker         https://github.com/SumaiyaAbubakar**
+- **Sumaiya Abubakar         https://github.com/SumaiyaAbubakar**
 - **Aoun Ali                  https://github.com/AounAli2k06**
 
 ---
