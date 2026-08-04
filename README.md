@@ -225,7 +225,7 @@ mingw32-make
 
 | Metric | Count |
 |---|---|
-| Total Lines of Code | **~17,000** |
+| Total Lines of Code | **10,000+** |
 | C++ Source Files (.cpp) | 11 |
 | C++ Header Files (.h) | 9 |
 | QML Files | 40 |
